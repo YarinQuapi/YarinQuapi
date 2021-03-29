@@ -15,7 +15,11 @@
 [<img align="left" alt="Termius Premium " width="26px" src="https://assets.website-files.com/5c7036349b5477bf13f828cf/5c7036349b547704bbf82a41_brand-preview-1.svg" />][termius]
 <br />
 
+[![YarinQuapi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YarinQuapi)](https://github.com/YarinQuapi/github-readme-stats)
+
 [intellij]: https://www.jetbrains.com/idea/
 [twitter]: https://twitter.com/YarinQuapi
 [discord]: https://discordapp.com/users/234221636604133378
 [termius]: https://termius.com/
+
+
