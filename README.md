@@ -15,7 +15,10 @@
 [<img align="left" alt="Termius Premium " width="26px" src="https://assets.website-files.com/5c7036349b5477bf13f828cf/5c7036349b547704bbf82a41_brand-preview-1.svg" />][termius]
 <br />
 
-![YarinQuapi's GitHub stats](https://github-readme-stats.vercel.app/api?username=YarinQuapi&hide_border=true&theme=radical&count_private=true)
+![YarinQuapi's GitHub stats](https://github-readme-stats.vercel.app/api?username=YarinQuapi&title_color=ec80ff&hide_border=true&theme=radical&count_private=true)
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarinQuapi&repo=BasePlugin&theme=radical&title_color=ec80ff)](https://github.com/anuraghazra/github-readme-stats)
 
 [intellij]: https://www.jetbrains.com/idea/
 [twitter]: https://twitter.com/YarinQuapi
