@@ -20,7 +20,7 @@
 ![YarinQuapi's GitHub stats](https://github-readme-stats.vercel.app/api?username=YarinQuapi&title_color=ec80ff&hide_border=true&theme=radical&count_private=true)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarinQuapi&repo=BasePlugin&theme=radical&title_color=ec80ff)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarinQuapi&repo=BasePlugin&theme=radical&title_color=ec80ff)](https://github.com/YarinQuapi/BasePlugin)
 
 [intellij]: https://www.jetbrains.com/idea/
 [twitter]: https://twitter.com/YarinQuapi
