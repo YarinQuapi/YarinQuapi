@@ -5,6 +5,8 @@
  - I am currently developing Minecraft plugins and Discord bots which some of them are public repositories!
  - I am currently working on [@ParlaGames](https://github.com/ParlaGames) Network!
 
+#### I am currently learning MCP & Forge modding for future client development plans.
+
 ### Social media
 [<img align="left" alt="YarinQuapi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Quapi | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
