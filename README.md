@@ -1,6 +1,6 @@
 ## Hello there! I am Quapi!
 
-### Some stuff about me:
+### About me:
  - I am a 17 year old student studying computer programming and game modding!
  - I am currently developing Minecraft plugins and Discord bots which some of them are public repositories!
 
