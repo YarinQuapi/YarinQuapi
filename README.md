@@ -2,7 +2,8 @@
 
 ### About me:
  - I am a 17 year old student studying computer programming and game modding!
- - I am currently developing Minecraft plugins and Discord bots which some of them are public repositories!
+ - I am currently working on several systems for games such as Minecraft and Rust
+ - I am also working on several Discord bots
 
 #### I am currently learning MCP & Forge modding for future client development plans.
 
