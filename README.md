@@ -13,7 +13,8 @@
 <br />
 
 ### Software I use
-[<img align="left" alt="Intellij Ultimate " width="26px" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" />][intellij]
+[<img align="left" alt="JetBrains Intellij Ultimate " width="26px" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" />][intellij]
+[<img align="left" alt="JetBrains CLion" width="26px" src="https://resources.jetbrains.com/storage/products/clion/img/meta/clion_logo_300x300.png" />][clion]
 [<img align="left" alt="Termius Premium " width="26px" src="https://assets.website-files.com/5c7036349b5477bf13f828cf/5c7036349b547704bbf82a41_brand-preview-1.svg" />][termius]
 <br />
 
@@ -22,6 +23,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarinQuapi&repo=Waypoints&theme=radical&title_color=ec80ff)](https://github.com/YarinQuapi/Waypoints)
 
+[clion]: https://www.jetbrains.com/clion/
 [intellij]: https://www.jetbrains.com/idea/
 [twitter]: https://twitter.com/YarinQuapi
 [discord]: https://discordapp.com/users/234221636604133378
