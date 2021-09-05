@@ -5,7 +5,7 @@
  - I am currently working on several systems for games such as Minecraft and Rust
  - I am also working on several Discord bots
 
-#### I am currently learning MCP & Forge modding for future client development plans.
+#### I am currently studying C++ for low-level programming
 
 ### Social media
 [<img align="left" alt="YarinQuapi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
