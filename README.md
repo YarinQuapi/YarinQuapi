@@ -18,6 +18,11 @@
 [<img align="left" alt="Termius Premium " width="26px" src="https://assets.website-files.com/5c7036349b5477bf13f828cf/5c7036349b547704bbf82a41_brand-preview-1.svg" />][termius]
 <br />
 
+### My versioning way
+A -> Alpha state, untested version, a f*** ton of bugs<br/>
+B -> Beta state, a more tested version, a bit less than a f*** ton of bugs<br/>
+R -> Release state, a public, tested, mostly bug-free version of the plugin/software.<br/>
+
 ![YarinQuapi's GitHub stats](https://github-readme-stats.vercel.app/api?username=YarinQuapi&title_color=ec80ff&hide_border=true&theme=radical&count_private=true)
 
 
