@@ -19,6 +19,7 @@
 <br />
 
 ### My versioning way
+D -> Development state, a very unstable, insecure, buggy as hell development version. most of the times private and unaccessable to the public.
 A -> Alpha state, untested version, a f*** ton of bugs<br/>
 B -> Beta state, a more tested version, a bit less than a f*** ton of bugs<br/>
 R -> Release state, a public, tested, mostly bug-free version of the plugin/software.<br/>
