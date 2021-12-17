@@ -4,8 +4,7 @@
  - I am a 17 year old student studying computer programming and game modding!
  - I am currently working on several systems for games such as Minecraft and Rust
  - I am also working on several Discord bots
-
-#### I am currently studying C++ for low-level programming
+ - I am enthusiastic about efficiency and making things very high performance 
 
 ### Social media
 [<img align="left" alt="YarinQuapi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -19,7 +18,7 @@
 <br />
 
 ### My versioning way
-D -> Development state, a very unstable, insecure, buggy as hell development version. most of the times private and unaccessable to the public. <br />
+D -> Development state, a very unstable, insecure, buggy as hell development version. most of the times private and inaccessable to the public. <br />
 A -> Alpha state, untested version, a f*** ton of bugs<br/>
 B -> Beta state, a more tested version, a bit less than a f*** ton of bugs<br/>
 R -> Release state, a public, tested, mostly bug-free version of the plugin/software.<br/>
@@ -34,5 +33,3 @@ R -> Release state, a public, tested, mostly bug-free version of the plugin/soft
 [twitter]: https://twitter.com/YarinQuapi
 [discord]: https://discordapp.com/users/234221636604133378
 [termius]: https://termius.com/
-
-
