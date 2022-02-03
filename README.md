@@ -5,6 +5,7 @@
  - I am currently working on several systems for games such as Minecraft and Rust
  - I am also working on several Discord bots
  - I am enthusiastic about efficiency and making things very high performance 
+ - Also learning Forge & Fabric mod development!
 
 ### Social media
 [<img align="left" alt="YarinQuapi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -19,8 +20,8 @@
 
 ### My versioning way
 D -> Development state, a very unstable, insecure, buggy as hell development version. most of the times private and inaccessable to the public. <br />
-A -> Alpha state, untested version, a f*** ton of bugs<br/>
-B -> Beta state, a more tested version, a bit less than a f*** ton of bugs<br/>
+A -> Alpha state, untested version, a ton of bugs<br/>
+B -> Beta state, a more tested version, a bit less than a ton of bugs<br/>
 R -> Release state, a public, tested, mostly bug-free version of the plugin/software.<br/>
 
 ![YarinQuapi's GitHub stats](https://github-readme-stats.vercel.app/api?username=YarinQuapi&title_color=ec80ff&hide_border=true&theme=radical&count_private=true)
