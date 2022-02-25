@@ -1,11 +1,10 @@
-## Hello there! I am Quapi!
+## Hello there! I am Yarin (but also known as Quapi)!
 
 ### About me:
- - I am a 17 year old student studying computer programming and game modding!
- - I am currently working on several systems for games such as Minecraft and Rust
- - I am also working on several Discord bots
- - I am enthusiastic about efficiency and making things very high performance 
- - Also learning Forge & Fabric mod development!
+ - Minecraft and Rust systems are my family forever and ever (rust is more like the unwanted sibling though.)
+ - I went on a few dates with DiscordAPI
+ - Very enthusiastic about efficiency and making things very high performance 
+ - I am forging my way with the Forge 1.16.5 API
 
 ### Social media
 [<img align="left" alt="YarinQuapi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -17,12 +16,6 @@
 [<img align="left" alt="JetBrains CLion" width="26px" src="https://resources.jetbrains.com/storage/products/clion/img/meta/clion_logo_300x300.png" />][clion]
 [<img align="left" alt="Termius Premium " width="26px" src="https://assets.website-files.com/5c7036349b5477bf13f828cf/5c7036349b547704bbf82a41_brand-preview-1.svg" />][termius]
 <br />
-
-### My versioning way
-D -> Development state, a very unstable, insecure, buggy as hell development version. most of the times private and inaccessable to the public. <br />
-A -> Alpha state, untested version, a ton of bugs<br/>
-B -> Beta state, a more tested version, a bit less than a ton of bugs<br/>
-R -> Release state, a public, tested, mostly bug-free version of the plugin/software.<br/>
 
 ![YarinQuapi's GitHub stats](https://github-readme-stats.vercel.app/api?username=YarinQuapi&title_color=ec80ff&hide_border=true&theme=radical&count_private=true)
 
