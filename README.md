@@ -19,7 +19,7 @@
 
 ![YarinQuapi's GitHub stats](https://github-readme-stats.vercel.app/api?username=YarinQuapi&title_color=ec80ff&hide_border=true&theme=radical&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YarinQuapi&title_color=ec80ff&hide_border=true&theme=radical)](https://github.com/YarinQuapi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YarinQuapi&layout=compact&title_color=ec80ff&hide_border=true&theme=radical)](https://github.com/YarinQuapi/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarinQuapi&repo=Waypoints&theme=radical&title_color=ec80ff)](https://github.com/YarinQuapi/Waypoints)
 
