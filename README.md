@@ -23,6 +23,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarinQuapi&repo=Waypoints&theme=radical&title_color=ec80ff)](https://github.com/YarinQuapi/Waypoints)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YarinQuapi&repo=QBungeePunishments&theme=radical&title_color=ec80ff)](https://github.com/YarinQuapi/QBungeePunishments)
+
 [clion]: https://www.jetbrains.com/clion/
 [intellij]: https://www.jetbrains.com/idea/
 [twitter]: https://twitter.com/YarinQuapi
