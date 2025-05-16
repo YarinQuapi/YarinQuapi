@@ -1,10 +1,5 @@
 ## Hello there! I am Yarin (but also known as Quapi)!
 
-### About me:
- - Minecraft and Rust systems are my family forever and ever (rust is more like the unwanted sibling though.)
- - I went on a few dates with DiscordAPI
- - Very enthusiastic about efficiency and making things very high performance 
- - I am forging my way with the Forge 1.16.5 API
 
 ### Social media
 [<img align="left" alt="YarinQuapi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
